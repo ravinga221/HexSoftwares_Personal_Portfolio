@@ -1,5 +1,5 @@
 
-# HexSoftwares Personal Portfolio
+# Personal Portfolio
 
 A clean, responsive personal portfolio website built with HTML, CSS, and JavaScript — ideal for showcasing your work, skills and contact information.
 
@@ -40,11 +40,11 @@ This portfolio website is designed to provide a professional online presence. Wh
 To get a local copy up and running:
 
 1. Clone the repository  
-   git clone https://github.com/ravinga221/HexSoftwares_Personal_Portfolio.git
+   git clone https://github.com/ravinga221/Personal_Portfolio.git
 
 
 2. Navigate to project folder
-   cd HexSoftwares_Personal_Portfolio
+   cd Personal_Portfolio
  
 3. Open `index.html` in your browser, or serve the folder with a simple HTTP server (for example using VSCode Live Server or `python -m http.server`).
 
@@ -72,6 +72,6 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 ## Contact
 
 My email — [ravinga221@gmail.com]
-Repository link: [https://github.com/ravinga221/HexSoftwares_Personal_Portfolio]
+Repository link: [https://github.com/ravinga221/Personal_Portfolio]
 
 
